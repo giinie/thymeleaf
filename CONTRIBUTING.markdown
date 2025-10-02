@@ -8,7 +8,7 @@ get started.
 ## Code of Conduct
 
 This project adheres to the Contributor Covenant
-[code of conduct][code-of-coduct].
+[code of conduct][code-of-conduct].
 By participating, you are expected to uphold this code. Please report
 unacceptable behavior to [the project leads][thymeleaf-team].
 
